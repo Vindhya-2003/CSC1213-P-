@@ -1,1 +1,26 @@
+Date:15/03/2025
+Practical Number:07
+Problem Specification:Write a java program to perform and display the results of basic arthmetic operations
+Implementation:
+class Ex07
+{
+	public static void main(String args[])
+	{
+		int x=20;
+		int y=10;
+		
+		System.out.println("Addition is:"+(x+y));
+		System.out.println("Substraction is:"+(x-y));
+		System.out.println("Mutiplication is:"+(x*y));
+		System.out.println("Divition is:"+(x/y));
+		System.out.println("Modulus is:"+(x%y));
+	}
+}
+Output:
+Addition is:30
+Substraction is:10
+Mutiplication is:200
+Divition is:2
+Modulus is:0
 
+Conclution:Learned how to display and perform of these operations on two integers.
